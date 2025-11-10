@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://khifl.pages.dev/sitemap.xml
